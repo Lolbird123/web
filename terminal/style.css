@@ -1,0 +1,16 @@
+body { background-color: #000000; }
+input {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 98%;
+  padding: 2px;
+  margin: 2px;
+  background-color: #000000;
+  border: none;
+  color: #ffffff;
+}
+p {
+  display: inline;
+  color: #ffffff;
+}
